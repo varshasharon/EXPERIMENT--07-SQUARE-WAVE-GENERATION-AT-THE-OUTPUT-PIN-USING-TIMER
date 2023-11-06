@@ -242,7 +242,7 @@ FREQUENCY = 1/(TOTAL TIME) = 1/3.5ms = 285.7 Hz
 
 ### FOR PULSE AT 700
 
- <img src="https://github.com/varshasharon/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/98278161/11675bc5-a054-4aa8-8a4d-c99ab1bb65fa" witdh=450, height=450>
+<img src="https://github.com/varshasharon/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/98278161/11675bc5-a054-4aa8-8a4d-c99ab1bb65fa" witdh=450, height=450>
 
 
 ```
@@ -255,7 +255,7 @@ FREQUENCY = 1/(TOTAL TIME) = 1/3.5ms = 285.7 Hz
 
 ### FOR PULSE AT 900
 
- <img src="https://github.com/varshasharon/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/98278161/ef905a40-5907-4b08-ab83-4f698730bb63" witdh=450, height=450>
+<img src="https://github.com/varshasharon/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/98278161/ef905a40-5907-4b08-ab83-4f698730bb63" witdh=450, height=450>
 
 
 ```
