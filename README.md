@@ -227,33 +227,42 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
-FOR PULSE AT 500
+### FOR PULSE AT 500
+
+<img src="https://github.com/varshasharon/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/98278161/23d8d403-bede-4324-8a90-0a569cf2b3a4" width=450, height=450>
+
 ```
 
 TON = 1.75ms
 TOFF= 1.75ms
 TOTAL TIME = 3.5ms
 FREQUENCY = 1/(TOTAL TIME) = 1/3.5ms = 285.7 Hz
-![275337444-82fccb1c-4ea0-46cf-b9bf-325e71953b48](https://github.com/varshasharon/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/98278161/97518d69-28ab-4272-82e9-aa55a2d8fe5f" witdh=450, height=450 >
 
 ```
-FOR PULSE AT 700
+
+### FOR PULSE AT 700
+
+ <img src="https://github.com/varshasharon/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/98278161/11675bc5-a054-4aa8-8a4d-c99ab1bb65fa" witdh=450, height=450 >
+
+
 ```
 TON = 2.75ms
 TOFF=0.75ms
 TOTAL TIME = 3.5ms
 FREQUENCY = 1/(TOTAL TIME) = 1/3.5ms = 285.7 Hz
- <img src="https://github.com/varshasharon/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/98278161/11675bc5-a054-4aa8-8a4d-c99ab1bb65fa" witdh=450, height=450 >
 
 ```
 
-FOR PULSE AT 900
+### FOR PULSE AT 900
+
+ <img src="https://github.com/varshasharon/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/98278161/ef905a40-5907-4b08-ab83-4f698730bb63" witdh=450, height=450 >
+
+
 ```
 TON = 3ms
 TOFF=0.5ms
 TOTAL TIME = 3.5ms
 FREQUENCY = 1/(TOTAL TIME) = 1/3.5 ms = 285.7 Hz
- <img src="https://github.com/varshasharon/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/98278161/ef905a40-5907-4b08-ab83-4f698730bb63" witdh=450, height=450 >
    
 ```
 
